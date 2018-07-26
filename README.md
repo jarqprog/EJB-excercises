@@ -2,5 +2,5 @@
 --------------------------------
 
     - JBoss server (wildfly 13)
-    - artifact (ejb) creation from IDE level
-    
+    - artifact (ejb) creation and server configuration from IDE level
+    - used: @Local, @Remote, @Stateless, @Statefull, @Singleton beans
